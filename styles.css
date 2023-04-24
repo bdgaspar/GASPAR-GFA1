@@ -1,0 +1,51 @@
+body {
+  background-image: url(kids.jpg);
+  background-size: cover;
+}
+header {
+  font-size: 40px;
+  font-family: Trebuchet MS, sans-serif;
+  color: black;
+  text-align: center;
+  background-color: #e5b5e17e;
+}
+p {
+  font-size: 16.5px;
+  font-family: Trebuchet MS, sans-serif;
+  color: black;
+  margin: 15px;
+  text-align: justify;
+}
+h3 {
+  text-align: center;
+  margin-top: 15px;
+}
+label {
+  margin-left: 15px;
+  font-size: 15px;
+}
+input {
+  margin-left: 15px;
+  margin-top: 5px;
+}
+#info {
+  float: right;
+  width: 60%;
+  height: 100%;
+  border-radius: 2%;
+}
+#signup {
+  float: right;
+  width: 40%;
+  height: 100%;
+  border-left: 1px solid black;
+}
+#bgcolor{
+  float: right;
+  margin-top: 30px;
+  margin-right: 30px;
+  width: 45%;
+  height: 450px;
+  background-color: #e5b5e17e;
+  border-radius: 2%;
+}
